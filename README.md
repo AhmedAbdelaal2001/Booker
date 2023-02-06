@@ -19,5 +19,6 @@ quickly enroll in available workshops through our application. More complex
 features would involve more intricate privileges for different membership types
 (different borrow limits, borrow/reservation periods, …etc.).  
 
-![image](https://user-images.githubusercontent.com/101427765/217079003-01517e02-de79-4beb-b4c3-b54c4ad412e9.png)
+![image](https://user-images.githubusercontent.com/101427765/217079144-bf67244b-2d8d-4cb0-8815-5df42cb81334.png)  
+
 
