@@ -17,4 +17,7 @@ membership status. Once they pick it up, the admin will change the status of the
 book from “reserved” to “borrowed”. Furthermore, members will be able to
 quickly enroll in available workshops through our application. More complex
 features would involve more intricate privileges for different membership types
-(different borrow limits, borrow/reservation periods, …etc.).
+(different borrow limits, borrow/reservation periods, …etc.).  
+
+![image](https://user-images.githubusercontent.com/101427765/217079003-01517e02-de79-4beb-b4c3-b54c4ad412e9.png)
+
