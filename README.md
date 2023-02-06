@@ -20,7 +20,12 @@ features would involve more intricate privileges for different membership types
 (different borrow limits, borrow/reservation periods, …etc.).  
 
 ![image](https://user-images.githubusercontent.com/101427765/217079144-bf67244b-2d8d-4cb0-8815-5df42cb81334.png)  
-![image](https://user-images.githubusercontent.com/101427765/217079289-187b0aaf-91a8-417b-96e2-0ff11a8f0352.png)
+![image](https://user-images.githubusercontent.com/101427765/217079289-187b0aaf-91a8-417b-96e2-0ff11a8f0352.png)  
+![image](https://user-images.githubusercontent.com/101427765/217079415-47a2ba17-f13a-45e8-b787-4586a27bd78a.png)
+![image](https://user-images.githubusercontent.com/101427765/217079689-56dbdd75-b786-464c-ba7b-2409dea33ec3.png)  
+![image](https://user-images.githubusercontent.com/101427765/217079805-e0bcaf14-8705-44e3-ba9a-28c2b27b38b1.png)
+
+
 
 
 
